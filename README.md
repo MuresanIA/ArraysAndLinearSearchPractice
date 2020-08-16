@@ -13,3 +13,5 @@ This project contains a few operations on arrays:
 - linear search for value
 
 The purpose of this project is practice.
+
+IDE used Eclipse.
